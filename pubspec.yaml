@@ -1,0 +1,32 @@
+name: boo_boo_app
+description: Aplikasi Resolusi Konflik untuk Pasangan
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Sementara komentari assets yang belum ada
+  # assets:
+  #   - assets/images/maskot_parts/
+  
+  # fonts:
+  #   - family: Nunito
+  #     fonts:
+  #       - asset: assets/fonts/Nunito-Regular.ttf
+  #       - asset: assets/fonts/Nunito-Bold.ttf
+  #         weight: 700

@@ -1,2 +1,16 @@
-# boo-boo-mobile-app
-Aplikasi pasangan untuk manajemen konflik dengan sistem "prioritaskan berdasarkan energi/komitmen waktu", di mana satu pihak cenderung menghindari konflik (Avoidant) dan satu pihak ingin segera menyelesaikan (Anxious/Problem-Solver). Aplikasi ini bertindak sebagai penengah yang terstruktur.
+# boo_boo_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
